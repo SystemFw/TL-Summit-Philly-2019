@@ -8,5 +8,3 @@ Slides for my talk at the Typelevel Summit 2019, in Philadelphia. You can look a
 fs2 offers a very powerful and composable set of concurrent combinators and data structures, which are all built out of two deceptively simple primitives: Ref and Deferred.
 
 This talk will explain what they are, the design principles behind them, and how to use them to build your own business logic abstractions. In the process, we will discover a general pattern in the form of concurrent state machines, and see how it integrates with final tagless on one hand, and streaming control flow on the other.
-
-If you have ever wondered how to translate that complicated piece of actor logic in pure FP, or how fs2’s Queues, Topics and Signals work under the hood, this is the talk for you.
