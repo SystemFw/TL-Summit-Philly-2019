@@ -1,6 +1,6 @@
 # Ref + Deferred: from counters to concurrent FSMs
 
-Slides for my talk at the Typelevel Summit 2019, in Philadelphia. You can look at them online at https://systemfw.github.io/TL-Summit-Philly-2019/#/ (use the spacebar to advance). The video for the talk is coming soon. Have a look at `Examples.scala` for the code.
+Slides for my talk at the Typelevel Summit 2019, in Philadelphia. You can look at them online at https://systemfw.github.io/TL-Summit-Philly-2019/#/ (use the spacebar to advance). The video for the talk is [here](https://www.youtube.com/watch?v=-dLp3u6y2DQ), although unfortunately the slides weren't captured and you have to look at them side to side. Have a look at `Examples.scala` for the code.
 
 ## Description
 
